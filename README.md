@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="justify">As a Data Analytics consultant with over 7 years of experience in the financial industry, I have gained extensive expertise in data analytics, machine learning, and cloud solutions. Throughout my career, I have demonstrated a self-driven approach to delivering high-quality results through my skills in ETL processes, data storytelling, machine learning, and DevOps. As an aspiring data professional, I am deeply committed to continuous learning and to making a positive impact on the organizations, teams, and people that I work with.</h3>
 
 
